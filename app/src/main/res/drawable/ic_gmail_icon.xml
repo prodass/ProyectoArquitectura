@@ -1,0 +1,12 @@
+<!-- res/drawable/ic_gmail_icon.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M12,13.293l4.707,4.707c0.63,0.63,1.707,0.633,2.348,0.01c0.648-0.623,0.648-1.638,0-2.266l-4.707-4.707
+            c-0.63-0.63-1.707-0.63-2.348,0L6.293,15.744c-0.63,0.63-0.648,1.707-0.01,2.348c0.623,0.648,1.638,0.648,2.266,0l4.707-4.707
+            C11.86,13.063,11.885,13.234,12,13.293z" />
+</vector>

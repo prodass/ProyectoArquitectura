@@ -1,0 +1,8 @@
+<!-- res/drawable/rounded_edit_text.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- Color de fondo -->
+    <corners android:radius="8dp" /> <!-- Radio de esquinas redondeadas -->
+    <stroke
+        android:color="#D1D1D1"
+        android:width="1dp" /> <!-- Borde del EditText -->
+</shape>

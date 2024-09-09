@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7408702670",
+    "project_id": "zummy-9d0fc",
+    "storage_bucket": "zummy-9d0fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7408702670:android:b1c0456dbb27f7fb012c9f",
+        "android_client_info": {
+          "package_name": "com.arquitectura.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7408702670-29bjv90o47nndjsa4s8sbfkfb9bod2ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWNFDNzurJf8lCdr7BtR2tNE7yVMwSGY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7408702670-29bjv90o47nndjsa4s8sbfkfb9bod2ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">App Arquitectura</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="al_registrarse_acepta_las_condiciones_del_servicio_y_la_pol_tica_de_privacidad">Al registrarse, acepta las Condiciones del servicio y la política de privacidad.</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="has_olvidado_la_contrase_a">¿Has olvidado la contraseña?</string>
+    <string name="ingres_su_contrase_a">Ingresé su contraseña</string>
 </resources>
